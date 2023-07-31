@@ -1,0 +1,28 @@
+body {
+    margin: 50px;
+    background-color: rgb(32, 30, 30);
+    color: white;
+}
+.ERROR {
+    background-color: rgba(66, 63, 63, 0.336);
+    text-align: center;
+}
+
+hr{
+    size: 2px;
+    color: white;
+}
+
+p{
+background-color:  rgba(66, 63, 63, 0.336);
+font-family: system-ui;
+line-height: 35px;
+text-align: center;
+position: relative;
+left: 500px;
+width: 500px;
+}
+
+.end {
+    font-family: monospace;
+}
